@@ -3,11 +3,14 @@
   "name": "iching-divination",
   "title": "I Ching Divination",
   "description": "Consult the Book of Changes for divination and life guidance",
-  "icon": "extension-icon.png",
+  "icon": "extension_icon.png",
   "author": "gkVkJzQEErnBzmm",
   "platforms": [
     "macOS",
     "Windows"
+  ],
+  "categories": [
+    "Fun"
   ],
   "license": "MIT",
   "preferences": [
